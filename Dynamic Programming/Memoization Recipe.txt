@@ -1,0 +1,2 @@
+First make it work in brute force
+Then you make the memory part to make it efficient.

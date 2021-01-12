@@ -1,0 +1,6 @@
+Notice any overlapping subproblems
+Decide what is the trivially smallest input 
+
+then, you can
+Use recursive to use memoization
+Use iterative to use Tabulation.
